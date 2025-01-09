@@ -9,3 +9,4 @@
 # Welcome to ENTR-451
 
 week 1 of winter 2025 class!
+added by other team member 
